@@ -1,0 +1,24 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "A Discord bot that uses the Google Gemini API to provide intelligent responses to user queries, with support for conversation history and multiple personalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohamedeslamkg/bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohamedeslamkg/bot/issues"
+  },
+  "homepage": "https://github.com/Mohamedeslamkg/bot#readme",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "sqlite3": "^5.1.7"
+  }
+}
